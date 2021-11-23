@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kheims
-- 👀 I’m interested in Data Science, Machine Learning, Embedded Systems and new technologies overall.
-- 🌱 I’m currently learning Computer Vision, RTOS
+- 👀 I’m interested in Data Science, Machine Learning, Embedded Systems, game development and new technologies overall.
+- 🌱 I’m currently learning Computer Vision.
 - 💞️ I’m looking to collaborate on creative data science projects.
 - 📫 You can reach me on : djamelmesbah141@gmail.com
 
